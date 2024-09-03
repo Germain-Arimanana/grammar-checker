@@ -18,7 +18,7 @@ This project is a French Grammar Checker application built using Streamlit and t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/french-grammar-checker.git
+   git clone https://github.com/Germain-Arimanana/grammar-checker.git
    cd french-grammar-checker
    ```
 
@@ -58,7 +58,7 @@ Ce projet est une application de vérification grammaticale en français dévelo
 1. Clonez le repository :
 
    ```bash
-   git clone https://github.com/yourusername/french-grammar-checker.git
+   git clone https://github.com/Germain-Arimanana/grammar-checker.git
    cd french-grammar-checker
    ```
 
