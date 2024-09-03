@@ -1,3 +1,0 @@
-streamlit
-language-tool-python
-distutils-pytest
