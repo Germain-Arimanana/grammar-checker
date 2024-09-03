@@ -31,7 +31,7 @@ This project is a French Grammar Checker application built using Streamlit and t
 3. Run the application:
 
    ```bash
-   streamlit run french_grammar_checker.py
+   streamlit run main.py
    ```
 
 ### Usage
@@ -55,7 +55,7 @@ Ce projet est une application de vérification grammaticale en français dévelo
 
 ### Installation
 
-1. Clonez le dépôt :
+1. Clonez le repository :
 
    ```bash
    git clone https://github.com/yourusername/french-grammar-checker.git
@@ -71,7 +71,7 @@ Ce projet est une application de vérification grammaticale en français dévelo
 3. Exécutez l'application :
 
    ```bash
-   streamlit run french_grammar_checker.py
+   streamlit run main.py
    ```
 
 ### Utilisation
